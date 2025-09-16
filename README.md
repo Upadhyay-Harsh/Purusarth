@@ -1,2 +1,5 @@
 # Purusarth
-A C++-based study planner with calendar, task tracking, and progress analytics.
+A C++-based study planner integrating calendar, task tracking, daily progress analytics, and secure login system.
+
+## Status
+Under development 🚀
